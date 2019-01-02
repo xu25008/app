@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://118.190.65.32:8089/gxdajApp.iOS.ipa</string>
+					<string>http://118.190.65.32:8089/NewApp.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>bundle-identifier</key>
 				<string>com.gxda.AppNew</string>
 				<key>title</key>
-				<string>gxdajapp</string>
+				<string>广西档案信息网</string>
 			</dict>
 		</dict>
 	</array>
